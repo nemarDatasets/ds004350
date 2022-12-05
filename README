@@ -22,4 +22,4 @@ Local Global (LG): Participants were shown large letters (H and T) on a computer
 
 **Note:** The data files in this dataset were converted into the .set format for EEGLAB. The .bdf files that were converted for each of the tasks can be found in the sourcedata folder.
 
-**Exclusion Note:** The second run of NB in session 1 of sub-11 and the run of SART in session 1 of sub-18 were both excluded due to issues with conversion to .set format.
+**Exclusion Note:** The second run of NB in session 1 of sub-11 and the run of SART in session 1 of sub-18 were both excluded due to issues with conversion to .set format. However, the .bdf files of these runs can be found in the sourcedata folder. 
