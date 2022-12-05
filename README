@@ -21,3 +21,5 @@ Local Global (LG): Participants were shown large letters (H and T) on a computer
 **Data Processing:** Data processing was performed in Matlab and EEGLAB. The EEG data was average referenced and down-sampled from 2048 to 256 Hz. A high-pass filter at 1 HZ using an elliptical non-linear filter was applied and the data was then average referenced.
 
 **Note:** The data files in this dataset were converted into the .set format for EEGLAB. The .bdf files that were converted for each of the tasks can be found in the sourcedata folder.
+
+**Exclusion Note:** The second run of NB in session 1 of sub-11 and the run of SART in session 1 of sub-18 were both excluded due to issues with conversion to .set format.
