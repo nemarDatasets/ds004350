@@ -43,10 +43,10 @@
       "large_H_small_T": "(Character\/T,(Within,Character\/H)),Experimental-stimulus,Sensory-event,Visual-presentation",
       "large_T_small_H": "(Character\/H,(Within,Character\/T)),Experimental-stimulus,Sensory-event,Visual-presentation",
       "large_T_small_T": "(Character\/T,(Within,Character\/T)),Experimental-stimulus,Sensory-event,Visual-presentation",
-      "response_large_H": "((Press,Keyboard-key\/Spacebar),Character\/LargeH)),Agent-action,Experiment-participant,Participant-response",
-      "response_large_T": "((Press,Keyboard-key\/Spacebar),Character\/LargeT)),Agent-action,Experiment-participant,Participant-response",
-      "response_small_H": "((Press,Keyboard-key\/Spacebar),Character\/SmallH)),Agent-action,Experiment-participant,Participant-response",
-      "response_small_T": "((Press,Keyboard-key\/Spacebar),Character\/SmallT)),Agent-action,Experiment-participant,Participant-response"
+      "response_large_H": "((Press,Keyboard-key\/Spacebar),Character\/H)),Agent-action,Experiment-participant,Participant-response",
+      "response_large_T": "((Press,Keyboard-key\/Spacebar),Character\/T)),Agent-action,Experiment-participant,Participant-response",
+      "response_small_H": "((Press,Keyboard-key\/Spacebar),Character\/H)),Agent-action,Experiment-participant,Participant-response",
+      "response_small_T": "((Press,Keyboard-key\/Spacebar),Character\/T)),Agent-action,Experiment-participant,Participant-response"
     }
   }
 }
