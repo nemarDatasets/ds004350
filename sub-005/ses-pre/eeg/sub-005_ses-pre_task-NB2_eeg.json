@@ -1,0 +1,16 @@
+{
+  "InstitutionAddress": "Centre de Recherche Cerveau et Cognition, Place du Docteur Baylac, Pavillon Baudot, 31059 Toulouse, France",
+  "InstitutionName": "Paul Sabatier University",
+  "InstitutionalDepartmentName": "Centre de Recherche Cerveau et Cognition",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "ActiveTwo",
+  "EEGPlacementScheme": "10-20",
+  "CapManufacturer": "Biosemi",
+  "EEGReference": "BIOSEMI CMS\/DRL",
+  "RecordingType": "continuous",
+  "TaskName": "NB2",
+  "EEGChannelCount": 64,
+  "RecordingDuration": 479,
+  "SamplingFrequency": 256,
+  "SoftwareFilters": "n\/a"
+}

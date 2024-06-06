@@ -1,5 +1,9 @@
 {
-  "participant_id": {
-    "Description": "Unique participant label"
+  "group": {
+    "Description": "group, active participant or sham participant",
+    "Levels": {
+      "FB": "active participant receiving feedback",
+      "S": "sham participant"
+    }
   }
 }
